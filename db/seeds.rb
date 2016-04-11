@@ -50,7 +50,7 @@ end
 
  member = User.create!(
    name:     'Member User',
-   email:    'member@example.com',
+   email:    'ethanfranson2@gmail.com',
    password: 'helloworld'
    )
 
